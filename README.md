@@ -11,5 +11,5 @@ __出版社__ impress books
 
 ## 対象twitterアカウント
 |  twitter  |
-| :----: | 
+| :---- | 
 |<a href = "https://twitter.com/Hinata72279726"><img src="https://user-images.githubusercontent.com/58177127/95284749-eaf6e680-0899-11eb-897e-23b269114d35.jpg" width="30%"></a>| 
