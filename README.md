@@ -10,6 +10,6 @@ __ISBM__ 9784295006411
 __出版社__ impress books  
 
 ## 対象twitterアカウント
-|  instagram  |
+|  twitter  |
 | :----: | 
-|<a href = "https://www.instagram.com/kikuchihinata/?hl=ja"><img src="https://user-images.githubusercontent.com/58177127/95284445-2ba23000-0899-11eb-98b2-93a763bc5da3.png" width="30%"></a>| 
+|<a href = "https://twitter.com/Hinata72279726"><img src="https://user-images.githubusercontent.com/58177127/95284749-eaf6e680-0899-11eb-897e-23b269114d35.jpg" width="100%"></a>| 
